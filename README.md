@@ -21,7 +21,7 @@
 
 >Minions: Banana!
 
-# Code:
+# Code (on this string was used this fragment of code -` # Code:` ):
 ```
 # First-level Header
 ## Second-level header
