@@ -16,4 +16,4 @@
 * E
 
 # Picture:
-![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
+![screenshot of sample](http://cache.lovethispic.com/uploaded_images/286476-I-m-Confused.jpg)
