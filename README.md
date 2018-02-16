@@ -22,7 +22,7 @@
 >Minions: Banana!
 
 # Code:
-"""
+```
 # First-level Header
 ## Second-level header
 ### wt Third-level header
@@ -45,4 +45,4 @@
 #### One more joke with minions -> [Сюдымсь](http://funnyminions.com/wp-content/uploads/2015/10/Funny-Minions-Quotes-404.jpg)
 
 >Minions: Banana!
-"""
+```
