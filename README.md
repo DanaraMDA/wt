@@ -24,7 +24,7 @@
 >Minions: Banana!
 
 ### Code (on this string was used this fragment of code -` # Code:` ):
-```javascript
+```
 # List of violin strings( unordered )
 - G (but you can get more, than 1 note ):  
   - G#
