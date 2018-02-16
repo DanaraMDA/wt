@@ -10,9 +10,9 @@
 4. Autumn
 
 # List of violin strings( unordered )
-* G (but you can get more, than 1 note ):
-*G#
-*G♭ 
+* G (but you can get more, than 1 note ):  
+* G#
+* G♭ 
 * D
 * A
 * E
