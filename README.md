@@ -51,3 +51,6 @@
 | ------------- |:----------------:| -----:   |
 | Строка 1      | С2-С1            | С3-С1    |
 | Строка 2      | С2-С2            | С3-С2    |
+
+  Some other user of GitHub:  
+  [User](https://github.com/kelseyhightower/nocode)
