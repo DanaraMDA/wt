@@ -11,8 +11,8 @@
 
 # List of violin strings( unordered )
 * G (but you can get more, than 1 note ):  
-** G#
-** G♭ 
+ * G#
+ * G♭ 
 * D
 * A
 * E
