@@ -16,8 +16,8 @@
 * E
 
 # Picture:
-![screenshot of sample](http://cache.lovethispic.com/uploaded_images/286476-I-m-Confused.jpg)
-#### One more joke with minions -> [Сюдымсь](http://funnyminions.com/wp-content/uploads/2015/10/Funny-Minions-Quotes-404.jpg)
+![screenshot of sample](http://cache.lovethispic.com/uploaded_images/286476-I-m-Confused.jpg)  
+  One more joke with minions -> [Сюдымсь](http://funnyminions.com/wp-content/uploads/2015/10/Funny-Minions-Quotes-404.jpg)  
 
 >Minions: Banana!
 
