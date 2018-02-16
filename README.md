@@ -21,7 +21,7 @@
 
 >Minions: Banana!
 
-# Code (on this string was used this fragment of code -` # Code:` ):
+### Code (on this string was used this fragment of code -` # Code:` ):
 ```
 # First-level Header
 ## Second-level header
@@ -46,3 +46,8 @@
 
 >Minions: Banana!
 ```
+| Таблицы       | Это                | Круто |
+| ------------- |:------------------:| -----:|
+| столбец 3     | выровнен вправо    | $1600 |
+| столбец 2     | выровнен по центру |   $12 |
+| зебра-строки  | прикольные         |    $1 |
