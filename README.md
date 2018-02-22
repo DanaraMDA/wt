@@ -41,7 +41,7 @@
 | Строка 2      | С2-С2            | С3-С2    |
 
   Some other user of GitHub:  
-  [User](https://github.com/kelseyhightower/nocode)
-@kelseyhightower
-  Emoji:  
+  [User](https://github.com/kelseyhightower/nocode)  
+  @kelseyhightower 
+    Emoji:  
   :milky_way:  
