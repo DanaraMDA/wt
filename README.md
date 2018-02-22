@@ -11,8 +11,8 @@
 
 # Some:
 1. F
-few
-wf
+  few
+  wf
 
 
 # List of violin strings( unordered )
