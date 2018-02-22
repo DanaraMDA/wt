@@ -42,6 +42,5 @@
 
   Some other user of GitHub:  
   [User](https://github.com/kelseyhightower/nocode)  
-  @kelseyhightower 
     Emoji:  
   :milky_way:  
