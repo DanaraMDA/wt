@@ -1,4 +1,3 @@
-<https://github.com/DanaraMDA/wt/blob/gh-pages/new_htm.html>
 # First-level Header
 ## Second-level header
 ### wt Third-level header
@@ -9,6 +8,12 @@
 2. Spring
 3. Summer
 4. Autumn
+
+# Some:
+1. F
+few
+wf
+
 
 # List of violin strings( unordered )
 - G (but you can get more, than 1 note ):  
