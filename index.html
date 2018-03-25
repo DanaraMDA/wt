@@ -33,7 +33,9 @@ function closeNav() {
   function openMode() {
       document.getElementById("openModal").style.animationDuration="2s";
       document.getElementById("openModal").style.animationName ="openup";
-   document.getElementById("openModal").style.width = "100px";
+   document.getElementById("openModal").style.width = "90%";
+       document.getElementById("openModal").style.height = "90%";
+
     document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
    
 }
@@ -42,7 +44,7 @@ function closeMode() {
    document.getElementById("openModal").style.animationDuration="2s";
       document.getElementById("openModal").style.animationName ="closeup";
     document.getElementById("openModal").style.width = "0";
-      document.getElementById("openModal").style.display = "none";
+         document.getElementById("openModal").style.height = "0";
 
     document.body.style.backgroundColor = "white"; 
 }
@@ -351,7 +353,6 @@ height:90%;
 
    </nav>
 </header>
-           <a href="#mySidenav" class="menu" onclick="openNav()">Menu</a>
   <a href="#openModal" class="menu" onclick="openMode()">Открыть модальное окно</a>
   <div id="openModal" class="modalDialog">
            <a href="javascript:void(0)" title="Закрыть" class="closebtn" onclick="closeMode()">&times;</a>
@@ -362,6 +363,7 @@ height:90%;
     </div>
 </div>
 
+           <a href="#mySidenav" class="menu" onclick="openNav()">Menu</a>
 
   <div class="container">
      
